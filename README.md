@@ -23,7 +23,7 @@ This is meant to be a community resource with full participation from interested
 ## What's Here
 
 **README** - you're reading it  
-**\*\/.gitkeep** - an empty file that makes git upload an otherwise empty directory, delete it if it bothers you
+**\*\/.gitkeep** - an empty file that makes git upload an otherwise empty directory, delete it if it bothers you  
 **Index** - an index file that could link to important items to expedite use  
 **\_Inbox** - the place for notes and items that have yet to be tagged and sorted into their proper place  
 **GM Section** - tools, stats, and information for the GM  
